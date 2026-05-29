@@ -18,7 +18,7 @@ The DSRF Conformance Checker is a tool designed and prepared by DDEX. The orygin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bravelab/mtl-ddex-flatfilevalidator.git
+   git clone https://github.com/musictechlab/mtl-ddex-flatfilevalidator.git
    cd mtl-ddex-flatfilevalidator
    ```
 
