@@ -1,6 +1,8 @@
 
 # DSRF Conformance Checker
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 THIS IS AN EXPERIMENTAL PACKAGE. DSRF PACKAGE HASN'T BEEN UPDATED SINCE 2020
 ## Overview
 
